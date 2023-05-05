@@ -14,7 +14,7 @@ export default {
       'md': '0.375rem',
       'lg': '0.5rem',
       'full': '9999px',
-      'mid': '1.5rem',
+      'mid': '1.2rem',
       'large': '2rem',
     }
   },
