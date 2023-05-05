@@ -5,7 +5,7 @@ import "../../src/App.css";
 const Head = () => {
   return (
     <>
-      <div className="bg-[#444f62] grid grid-cols-1 md:grid-cols-2 h-screen">
+      <div className="bg-slate-700 grid grid-cols-1 md:grid-cols-2 h-screen">
         <div className="flex justify-center items-center max-sm:hidden">
             <div className="p-5 h-full">
                 <img src={Header} className="h-full object-cover rounded-large" alt="image" />
